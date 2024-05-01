@@ -1,0 +1,2 @@
+in the mvc publisher and subscriber architecture
+the publisher(v) listens for events and the subscriber(c) has the callback functions
